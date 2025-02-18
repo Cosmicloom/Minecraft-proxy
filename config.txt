@@ -1,0 +1,2 @@
+SERVER_IP=play.myserver.com
+SERVER_PORT=25565
